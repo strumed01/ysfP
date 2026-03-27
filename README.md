@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credix 💳 — Application de gestion de crédit et finances
 
 > Application mobile multilingue (FR / EN / ES / AR) pour gérer votre crédit, vos dépenses et vos objectifs d'épargne.
@@ -182,3 +183,6 @@ npm start                  # Démarrage sur http://localhost:3000
 ---
 
 *Credix — Score · Track · Grow* 💳
+=======
+# ysfP
+>>>>>>> 940774a1ce843edd385b2e1f1093c73c83b99108
